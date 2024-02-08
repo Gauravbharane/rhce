@@ -1,0 +1,5 @@
+Inventory_Hostname = hostname
+Bios_Version = biosversion
+Total Memory size in MB = memory
+Size of Disk Device VDA= vdasize
+Size of Disk Device VDB= vdbsize
